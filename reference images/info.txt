@@ -1,0 +1,5 @@
+pwm:
+25 kHz
+3.3 V
+inverted
+blaues kabel
